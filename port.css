@@ -1,0 +1,39 @@
+html{
+    background-color: black;
+    color : white;
+}
+.header{
+    position: absolute;
+}
+.alignleft {
+    text-align: left;
+    
+}
+.alignright {
+    text-align: right;
+}
+.aligncenter {
+    text-align: center;
+}
+.column {
+    float : left;
+    width : 33.33%;
+}
+
+
+#pic1 {
+    border-radius: 5px;
+    border :1px solid gray;
+    width : 100%;
+	opacity : 0.4;
+    background-size: contain;
+}
+
+.footer{
+    position: absolute;
+    left:0;
+    bottom:0;
+    width:100%;
+    padding:15px 0;
+    
+}
